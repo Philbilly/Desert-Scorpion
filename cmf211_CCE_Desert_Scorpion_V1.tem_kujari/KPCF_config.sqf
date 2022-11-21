@@ -56,11 +56,11 @@ KPCF_whitelistedItems = [
 // Defines the available weapons
 KPCF_weapons = [
     //Germany
-    "LIB_MG34","LIB_K98_Late","LIB_MP40","LIB_P08"
-    ,"LIB_RPzB"
-    //AMERIKEE
-    ,"LIB_M1_Garand","LIB_M1918A2_BAR","LIB_M1928A1_Thompson","LIB_Colt_M1911"
-    ,"LIB_M1A1_Bazooka"
+    "fow_w_mg34","CSA38_kar98k","fow_w_mp40","LIB_P08","fow_w_g43"
+    ,"LIB_RPzB","fow_w_pzfaust_60"
+    //UK
+    ,"CSA38_No4","CSA38_BRENMKIIR","CSA38_stenMkIII","LIB_Webley_mk6","LIB_LeeEnfield_No4_CUP"
+    ,"LIB_PIAT"
     //Uni 
     ,"LIB_FLARE_PISTOL"
 ];
